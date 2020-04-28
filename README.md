@@ -14,11 +14,11 @@ git clone https://github.com/blogcacanid/ang9-adminlte.git
 ## Lalu masuk kedirektori project:
 cd ang9-adminlte
 
-## Selanjutnya jalankan perintah berikut secara terurut:
+## Selanjutnya jalankan perintah berikut:
 - composer install
 
 ## Testing
-Jalankan laravel dengan menggunakan perintah berikut:
+Jalankan Angular 9 dengan menggunakan perintah berikut:
 - npm start
 
 Lalu buka browser dan ketikkan URL http://localhost:4200
