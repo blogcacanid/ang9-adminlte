@@ -15,7 +15,7 @@ git clone https://github.com/blogcacanid/ang9-adminlte.git
 cd ang9-adminlte
 
 ## Selanjutnya jalankan perintah berikut:
-- composer install
+- npm install
 
 ## Testing
 Jalankan Angular 9 dengan menggunakan perintah berikut:
